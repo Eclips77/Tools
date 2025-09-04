@@ -43,7 +43,7 @@ This repository is a comprehensive suite of Python tools and services designed t
 ### Installation
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone (https://github.com/Eclips77/Tools.git)
 cd Tools
 
 # Install dependencies

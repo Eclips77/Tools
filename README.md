@@ -70,16 +70,3 @@ Some modules depend on external services. Use the provided Docker Compose file t
 ```bash
 docker-compose up -d
 ```
-
-## Testing & Code Quality
-- **Unit Tests**: Validate individual components.
-- **Integration Tests**: Ensure seamless interaction between modules.
-- **Code Style**: Enforced with flake8, black, and mypy.
-
-## Contributing
-We welcome contributions! Please follow the guidelines in `CONTRIBUTING.md` to submit issues, feature requests, or pull requests.
-
----
-
-This README provides a high-level overview of the project. For detailed documentation, refer to the respective module directories.
-

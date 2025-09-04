@@ -2,7 +2,7 @@ from pathlib import Path
 from faster_whisper import WhisperModel
 import json
 import logging
-from translator import Translator # Import the Translator class
+from translator import Translator 
 
 logger = logging.getLogger(__name__)
 

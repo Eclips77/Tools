@@ -1,0 +1,28 @@
+# .gitignore
+# Ignore all data and media files
+first_audio_try/audio_data/
+first_audio_try/output/
+first_audio_try/pipline/app/
+first_audio_try/pipline/services/audio_processing/
+first_audio_try/pipline/services/elastic/
+first_audio_try/pipline/services/kafka/
+utils_for_help/voice/
+# Ignore all mp3 and wav files recursively
+*.mp3
+*.wav
+# Ignore other large media formats
+*.flac
+*.ogg
+*.mp4
+*.avi
+*.mov
+*.mkv
+# Ignore temporary and cache files
+*.tmp
+*.cache
+__pycache__/
+first_audio_try/transcript_en.txt
+first_audio_try/transcript_he.txt
+first_audio_try/boby_podcast_segments.json
+*.json
+*.txt

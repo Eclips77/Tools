@@ -2,10 +2,10 @@
 # Ignore all data and media files
 first_audio_try/audio_data/
 first_audio_try/output/
-first_audio_try/pipline/app/
-first_audio_try/pipline/services/audio_processing/
-first_audio_try/pipline/services/elastic/
-first_audio_try/pipline/services/kafka/
+# first_audio_try/pipline/app/
+# first_audio_try/pipline/services/audio_processing/
+# first_audio_try/pipline/services/elastic/
+# first_audio_try/pipline/services/kafka/
 utils_for_help/voice/
 # Ignore all mp3 and wav files recursively
 *.mp3
